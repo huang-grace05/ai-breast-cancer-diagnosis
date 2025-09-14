@@ -15,7 +15,7 @@ This project uses machine learning to predict whether a breast tumor is malignan
 ## Files
 
 - `breast_cancer_diagnostic.ipynb` - The Jupyter notebook with all the code and explanations.
-- `data.csv` - The dataset used for training and testing (note: due to privacy and licensing, the dataset might need to be downloaded separately).
+- `data.csv` - The UCI Breast Cancer Wisconsin (Diagnostic) Data Set used for training and testing (note: due to privacy and licensing, the dataset needs to be downloaded separately).
 
 ## How to Use
 
